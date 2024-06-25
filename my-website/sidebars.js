@@ -19,8 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
   
   tutorialSidebar: [
-    'intro',
-    'hello',
+    'introduction',
     {
       type: 'category',
       label: 'Dashboards',
@@ -29,8 +28,14 @@ const sidebars = {
         'Dashboards/NetData',
         'Dashboards/Telephony'], 
     },
+    {
+      type: 'category',
+      label: 'User',
+      items: ['users/UserDetails'],
+    },
   ],
    
 };
 
 export default sidebars;
+ 
