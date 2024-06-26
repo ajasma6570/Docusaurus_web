@@ -3,7 +3,7 @@ sidebar_label: 'Introduction'
 sidebar_position: 3
 ---
 
-# Introduction version 1.3
+# Introduction
 
 The Difuse Project is a next-generation networking and communication solution that empowers small and medium-sized businesses to stay connected, secure, and productive. With its powerful and versatile features, Difuse provides businesses with the tools they need to succeed in today's fast-paced, digital world.
 

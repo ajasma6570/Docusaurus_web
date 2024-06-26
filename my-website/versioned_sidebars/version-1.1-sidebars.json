@@ -1,0 +1,21 @@
+{
+  "tutorialSidebar": [
+    "introduction",
+    {
+      "type": "category",
+      "label": "Dashboards",
+      "items": [
+        "Dashboards/Router",
+        "Dashboards/NetData",
+        "Dashboards/Telephony"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "User",
+      "items": [
+        "users/UserDetails"
+      ]
+    }
+  ]
+}
